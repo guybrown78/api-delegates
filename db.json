@@ -1,10 +1,16 @@
-[
-	{
-		"name":"guy",
-		"id":"001"
-	},
-	{
-		"name":"dave",
-		"id":"002"
-	}
-]
+{
+	"results":[
+		{
+			"id":"001",
+      "firstName":"Joe",
+      "lastName":"Bloggs",
+      "jobRole":"Rigger"
+		},
+		{
+			"id":"002",
+      "firstName":"Guy",
+      "lastName":"Brown",
+      "jobRole":"Scaffolder"
+		}
+	]
+}
