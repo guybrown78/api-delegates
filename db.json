@@ -1,16 +1,1 @@
-{
-	"results":[
-		{
-			"id":"001",
-      "firstName":"Joe",
-      "lastName":"Bloggs",
-      "jobRole":"Rigger"
-		},
-		{
-			"id":"002",
-      "firstName":"Guy",
-      "lastName":"Brown",
-      "jobRole":"Scaffolder"
-		}
-	]
-}
+{"results":[{"id":"63121","firstName":"Aaron","lastName":"Walker","role":"Rigger"},{"id":"63122","firstName":"AIS ","lastName":"Tester","role":"Rigger"},{"id":"63123","firstName":"Becca","lastName":"Fells","role":"Rigger"},{"id":"63124","firstName":"Beth","lastName":"Millar","role":"Rigger"},{"id":"63125","firstName":"Calen","lastName":"Whyte","role":"Rigger"},{"id":"63126","firstName":"Callan","lastName":"White","role":"Rigger"},{"id":"63127","firstName":"Cdw","lastName":"w","role":"Rigger"},{"id":"63128","firstName":"Dave","lastName":"Oliver","role":"Rigger"},{"id":"63129","firstName":"f","lastName":"1","role":"Rigger"},{"id":"63130","firstName":"f","lastName":"1,","role":"Rigger"},{"id":"63131","firstName":"f","lastName":"2","role":"Rigger"},{"id":"63132","firstName":"f","lastName":"2,","role":"Rigger"},{"id":"63133","firstName":"f","lastName":"f","role":"Rigger"},{"id":"63134","firstName":"Guy","lastName":"Brown","role":"Rigger"},{"id":"63135","firstName":"Heather","lastName":"Murphy","role":"Rigger"},{"id":"63136","firstName":"Linsey","lastName":"Horberry","role":"Rigger"},{"id":"63137","firstName":"Nathan","lastName":"Video","role":"Rigger"},{"id":"63138","firstName":"Paul","lastName":"Simmons","role":"Rigger"},{"id":"63139","firstName":"Rachael","lastName":"Peters","role":"Rigger"},{"id":"63140","firstName":"Rob","lastName":"Dixon","role":"Rigger"},{"id":"63141","firstName":"Sean","lastName":"Johnson","role":"Rigger"},{"id":"63142","firstName":"Simon","lastName":"Fells","role":"Rigger"},{"id":"63143","firstName":"test","lastName":"1","role":"Rigger"},{"id":"63144","firstName":"test","lastName":"2","role":"Rigger"},{"id":"63145","firstName":"test","lastName":"3","role":"Rigger"},{"id":"63146","firstName":"test","lastName":"4","role":"Rigger"},{"id":"63147","firstName":"test","lastName":"fells","role":"Rigger"},{"id":"63148","firstName":"Test","lastName":"User","role":"Rigger"},{"id":"63149","firstName":"user","lastName":"test","role":"Rigger"}]}
